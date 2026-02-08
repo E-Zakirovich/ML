@@ -1,2 +1,12 @@
 Hi this file is going to explain all about dataset
 
+This dataset is collection of houses at the USA. With this db, u can get the prices of hoses. There is 7 columns, They are:
+    1 Avg. Area Income - Average yearly income of people living in that neighborhood.
+    2 Avg. Area House Age - Average age (in years) of houses in that area.
+    3 Avg. Area Number of Rooms - Average number of rooms per house in that area.
+    4 Avg. Area Number of Bedrooms - Average number of bedrooms per house.
+    5 Area Population - Number of people living in that area.
+    6 Price - House price
+    7 Address - Text address of the house.
+
+That's it. 
